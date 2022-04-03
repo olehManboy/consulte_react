@@ -6,6 +6,25 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `Skills`
+
+MERN
+React
+JavaScripp(ES6)
+Firebase
+Firestore
+Firebase Authentication
+Material-UI
+Webpack
+FileSaver
+React-Bootstrape
+Context API
+stripe
+React-router-dom v-6
+Express
+MongoDb
+Node.js
+
 ### `yarn start`
 
 Runs the app in the development mode.\
